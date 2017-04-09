@@ -1,0 +1,25 @@
+INSERT INTO 'products' ('productID', 'productName', 'productCategory', 'productCategory', 'productPrice', 'productPicture')
+VALUES
+('002','White Rose Bouquet','Hand Bouquet',250000,'img/bunga2.png'),
+('003','BlueWhite Rose Bouquet','Hand Bouquet',310000,'img/bunga3.png'),
+('004','Blue Rose Bouquet','Hand Bouquet',260000,'img/bunga4.png'),
+('005','Sweet pastel Bouquet','Hand Bouquet',300000,'img/bunga5.png'),
+('006','Special flower V-Day','Hand Bouquet',800000,'img/bunga6.png'),
+('007','PinkWhite Rose Bouquet','Hand Bouquet',250000,'img/bunga7.png'),
+('008','Couple Teddy Bouquet','Hand Bouquet',200000,'img/bunga8.png'),
+('009','Elegant Blue Bouquet','Hand Bouquet',200000,'img/bunga9.png'),
+('010','Ferrero Bouquet','Hand Bouquet',350000,'img/bunga10.png'),
+('011','Colourful Pastel Bouquet','Hand Bouquet',180000,'img/bunga15.png'),
+('012','Purple White Bouquet','Hand Bouquet',300000,'img/bunga16.png'),
+('013','Creamy Bouquet','Hand Bouquet',280000,'img/bunga17.png'),
+('014','Love Flower Box','Flower Box',560000,'img/fb1.png'),
+('015','Blue Flower Box','Flower Box',600000,'img/fb2.png'),
+('016','Yellow Teddy Rose','Graduation Flower',200000,'img/gr1.png'),
+('017','Green Yellow Bouquet','Graduation Flower',180000,'img/gr2.png'),
+('018','Pastel Bouquet','Graduation Flower',150000,'img/gr3.png'),
+('019','Violet Teddy Rose','Graduation Flower',170000,'img/gr4.png'),
+('020','Red White Rose','Graduation Flower',150000,'img/gr5.png'),
+('021','Ferrero Teddy Bouquet','Graduation Flower',140000,'img/gr6.png'),
+('022','White Teddy Rose','Graduation Flower',120000,'img/gr7.png');
+
+INSERT INTO `products` (`productID`, `productName`, `productCategory`, `productPrice`, `productPicture`) VALUES ('001', 'Ferrero & Flower Bouquet', 'Hand Bouquet', '400000', 'img/bunga1.png');
